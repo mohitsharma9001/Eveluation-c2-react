@@ -39,7 +39,7 @@ function Slide({page}) {
       ))}
  
     </div>
-        
+      //  mo? 
   );
 }
 
